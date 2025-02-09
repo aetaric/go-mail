@@ -3,6 +3,7 @@ package mail
 import (
 	"bytes"
 	"strconv"
+	"strings"
 )
 
 const crlf = "\015\012"
